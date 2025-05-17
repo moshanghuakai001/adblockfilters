@@ -160,3 +160,5 @@ dig.bdurl.net
 360.cn
 www.360.cn
 bce.baidu.com
+gias.jd.com
+lf6-cdn-tos.bytecdntp.com
