@@ -164,3 +164,8 @@ dig.bdurl.net
 360.cn
 www.360.cn
 bce.baidu.com
+gias.jd.com
+wl.jd.com
+ccc-x.jd.com
+lf6-cdn-tos.bytecdntp.com
+minorshort.weixin.qq.com
