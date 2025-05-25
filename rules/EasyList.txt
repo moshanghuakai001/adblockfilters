@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DaCdxPTbH9gkuICdwfXLzQ
-! Version: 202505242331
+! Checksum: thiYgdQTyWGnPXgSs13Lkg
+! Version: 202505250201
 ! Title: EasyList
-! Last modified: 24 May 2025 23:31 UTC
+! Last modified: 25 May 2025 02:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21695,6 +21695,7 @@ browsershots.org#@#.advert_area
 ||cpxinteractive.com^
 ||cpyahxlsjcrn.com^
 ||cpyjcefu.com^
+||cqaqwekgzvkek.tech^
 ||cqmgoxqbhsmgg.site^
 ||cqnmtmqxecqvyl.com^
 ||cqrvwq.com^
@@ -21819,6 +21820,7 @@ browsershots.org#@#.advert_area
 ||crowdsuitcaseuntwist.com^
 ||crptentry.com^
 ||crptgate.com^
+||crqwhsxcvngdp.icu^
 ||crrepo.com^
 ||crsope.com^
 ||crsspxl.com^
@@ -23517,6 +23519,7 @@ browsershots.org#@#.advert_area
 ||effacedefend.com^
 ||effacestopless.shop^
 ||effateuncrisp.com^
+||effe2f62ae.com^
 ||effectivecpmcontent.com^
 ||effectivecpmgate.com^
 ||effectivecreativeformat.com^
@@ -24336,6 +24339,7 @@ browsershots.org#@#.advert_area
 ||fbcdn2.com^
 ||fbgdc.com^
 ||fbhelyqzqbnft.global^
+||fbkhrxeds.com^
 ||fbkzqnyyga.com^
 ||fbmedia-bls.com^
 ||fbmedia-ckl.com^
@@ -26352,6 +26356,7 @@ browsershots.org#@#.advert_area
 ||hcevuzobtkit.com^
 ||hcimixnajojl.com^
 ||hcituicbxfc.com^
+||hcmmknaqaxbe.com^
 ||hcpvkcznxj.com^
 ||hctwekslxuvtlcq.com^
 ||hcyhiadxay.com^
@@ -27316,6 +27321,7 @@ browsershots.org#@#.advert_area
 ||improvebin.xyz^
 ||impubicpuddly.com^
 ||impureattirebaking.com^
+||impureleg.com^
 ||imtijnluoailwb.com^
 ||imtvbovcxwhvl.global^
 ||imuhmgptdoae.com^
@@ -27951,6 +27957,7 @@ browsershots.org#@#.advert_area
 ||jgqaainj.buzz^
 ||jgtdptiivqmxubk.com^
 ||jgubbpypmlxbk.one^
+||jgwwszqkvyxcg.site^
 ||jhbjkqqykibyt.buzz^
 ||jhiihllo.com^
 ||jhkfd.com^
@@ -34230,6 +34237,7 @@ browsershots.org#@#.advert_area
 ||qwjxcvdzrafum.club^
 ||qwoyfys.com^
 ||qwpsgqyzrzcr.life^
+||qwrwawwlrlkyr.top^
 ||qwrwhosailedbe.info^
 ||qwtag.com^
 ||qwuaqrxfuohb.com^
@@ -40688,6 +40696,7 @@ browsershots.org#@#.advert_area
 ||zqvvzrlevbkbz.top^
 ||zqwe.ru^
 ||zrakos.com^
+||zrilwyoc.com^
 ||zrlqm.com^
 ||zrmtrm.com^
 ||zrotary.com^
